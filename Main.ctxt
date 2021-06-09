@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n
+comment2.target=int\ sumton(int)
+comment3.params=n
+comment3.target=void\ alternatetoN(int)
+comment4.params=n
+comment4.target=int\ maxDigit(int)
+comment5.params=n
+comment5.target=int\ reverseNumber(int)
+numComments=6
