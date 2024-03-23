@@ -58,7 +58,7 @@ public class Main
             Output: int
             Return the original integer reversed (written in reverse digit order)
             Ex. 12345 ⇒ 54321
-            Ex. 62854123 ⇒ 32145826 */	
+            Ex. 62854123 ⇒ 32145826 */    
         System.out.println(reverseNumber(12345));
         System.out.println(reverseNumber(62854123));
     }
